@@ -17,6 +17,8 @@
 - `practices` содержит материалы практик.
 - `docs` содержит прочие файлы школы.
 
+Список доступных лекций [посмотреть](lectures/README.md)
+
 ## Коммуникация
 
 [![Gitter](https://badges.gitter.im/CV-SUMMER-CAMP/community.svg)](https://gitter.im/CV-SUMMER-CAMP/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
