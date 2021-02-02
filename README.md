@@ -19,6 +19,8 @@
 
 Список доступных лекций [посмотреть](lectures/README.md)
 
+Список доступных лекций [посмотреть](practices/README.md)
+
 ## Коммуникация
 
 [![Gitter](https://badges.gitter.im/CV-SUMMER-CAMP/community.svg)](https://gitter.im/CV-SUMMER-CAMP/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
